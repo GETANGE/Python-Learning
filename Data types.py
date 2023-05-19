@@ -10,3 +10,5 @@ if 5>2:
     
     _variable1="Emmanuel"
     print(_variable1)
+    
+    #loops in python.
